@@ -1,0 +1,8 @@
+@use "@zaydek/duomo" as * with ($headless: true);
+
+h1 {
+	color: hsl(color(gray-500));
+}
+p {
+	background-color: hsl(color(gray-500));
+}

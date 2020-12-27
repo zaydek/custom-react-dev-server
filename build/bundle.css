@@ -1,0 +1,7 @@
+h1 {
+  color: hsl(var(--gray-500));
+}
+
+p {
+  background-color: hsl(var(--gray-500));
+}
